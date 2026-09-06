@@ -1,0 +1,6 @@
+cvzone
+opencv-python
+mediapipe
+gpiozero
+pygame
+numpy
